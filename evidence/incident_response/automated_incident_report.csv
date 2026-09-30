@@ -1,0 +1,2 @@
+timestamp,entity,ueba_score,ioc_matches,combined_risk_score,risk_level,recommended_action,tls_sessions,forensic_records
+2026-09-30 18:29:18.686950,10.0.2.15,75.91171753149388,1,83.1382022720457,HIGH,QUARANTINE,42,6

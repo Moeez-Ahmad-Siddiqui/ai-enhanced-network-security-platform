@@ -1,0 +1,30 @@
+========== CONTROLLED ML EVALUATION ==========
+Connections loaded: 921
+Training baseline samples: 644
+Testing baseline samples: 277
+Isolation Forest training complete.
+
+========== EVALUATION RESULTS ==========
+Accuracy :  0.9700
+Precision:  0.9434
+Recall   :  1.0000
+F1 Score :  0.9709
+
+========== CONFUSION MATRIX ==========
+[[ 94   6]
+ [  0 100]]
+
+========== CLASSIFICATION REPORT ==========
+              precision    recall  f1-score   support
+
+      Normal       1.00      0.94      0.97       100
+     Anomaly       0.94      1.00      0.97       100
+
+    accuracy                           0.97       200
+   macro avg       0.97      0.97      0.97       200
+weighted avg       0.97      0.97      0.97       200
+
+
+Results saved to: ml_evaluation_results.csv
+
+========== EVALUATION COMPLETE ==========

@@ -1,0 +1,3 @@
+ioc,type,source,description
+192.168.1.1,IP,LAB-THREAT-INTEL,Lab DNS server used for controlled IOC correlation
+10.0.2.15,IP,LAB-ASSET-INVENTORY,Lab client used for controlled testing

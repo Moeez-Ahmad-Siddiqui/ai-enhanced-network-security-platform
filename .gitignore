@@ -1,0 +1,27 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.DS_Store
+
+# Raw Zeek logs
+conn.log
+dns.log
+http.log
+ssl.log
+x509.log
+ntp.log
+dhcp.log
+files.log
+weird.log
+ocsp.log
+packet_filter.log
+reporter.log
+
+# Packet captures
+*.pcap
+
+# Local/system files
+*.tmp
+private_originals/
