@@ -25,3 +25,8 @@ reporter.log
 # Local/system files
 *.tmp
 private_originals/
+
+# Local working copies
+/*.py
+/*.csv
+/*_evidence.txt
